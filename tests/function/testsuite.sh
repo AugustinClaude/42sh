@@ -1,0 +1,15 @@
+run_test normal1_func
+run_test normal2_func
+run_test normal3_func
+run_test normal4_func
+run_test fail1_func
+run_test fail2_func
+run_test fail3_func
+run_test_redirect redir1_func
+run_test_redirect redir2_func
+run_test hard1_func
+run_test hard2_func
+run_test hard3_func
+run_test_stdin arg1_func
+run_test_stdin arg2_func
+run_test_stdin arg3_func

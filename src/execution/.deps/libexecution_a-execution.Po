@@ -1,0 +1,5 @@
+libexecution_a-execution.o: execution.c /usr/include/stdc-predef.h \
+ execution.h ../../src/ast/ast.h
+/usr/include/stdc-predef.h:
+execution.h:
+../../src/ast/ast.h:

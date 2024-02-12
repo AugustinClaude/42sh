@@ -1,0 +1,11 @@
+libparser_a-parser_utils.o: parser_utils.c /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h \
+ ../../src/lexer/lexer.h ../../src/lexer/token.h ../../src/lexer/token.h \
+ parser.h ../../src/ast/ast.h
+/usr/include/stdc-predef.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h:
+../../src/lexer/lexer.h:
+../../src/lexer/token.h:
+../../src/lexer/token.h:
+parser.h:
+../../src/ast/ast.h:

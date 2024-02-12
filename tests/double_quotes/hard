@@ -1,0 +1,8 @@
+var=12
+echo " '' '' '' \\\\\\\
+caca"
+echo '\\'
+echo '\'
+echo "adw wadwa wDwadaw $var\
+'$var'\
+"
