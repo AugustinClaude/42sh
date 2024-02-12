@@ -1,8 +1,0 @@
-libenv_a-environment.o: environment.c /usr/include/stdc-predef.h \
- environment.h ../../src/ast/ast.h ../../src/utils/hash_map.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
-/usr/include/stdc-predef.h:
-environment.h:
-../../src/ast/ast.h:
-../../src/utils/hash_map.h:
-/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h:

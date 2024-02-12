@@ -1,6 +1,0 @@
-libenv_a-loops.o: loops.c /usr/include/stdc-predef.h loops.h \
- environment.h ../../src/ast/ast.h
-/usr/include/stdc-predef.h:
-loops.h:
-environment.h:
-../../src/ast/ast.h:
